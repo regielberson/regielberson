@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @regielberson
 - 👀 Estou interessado em aprender a desenvolver
-- 🌱 Pra começar estou tentando aprender php.
+- 🌱 Vamos ver até onde eu vou... rs
 - 💞️ Ainda não posso colaborar com nada, estou no B A BA da aprendizagem.
 - 📫 lirioregis@gmail.com
 
